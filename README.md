@@ -1,7 +1,7 @@
-# codveda-ml-internship
-# Machine Learning Internship – Codveda Technologies
+# codealpha-ml-internship
+# Machine Learning Internship – CodeAlpha Technologies
 
-This repository contains the tasks completed as part of my Machine Learning Internship at Codveda Technologies.
+This repository contains the tasks completed as part of my Machine Learning Internship at CodeAlpha Technologies.
 
 ## 📌 Tasks Completed
 
@@ -29,4 +29,4 @@ This repository contains the tasks completed as part of my Machine Learning Inte
 
 ## 👤 Author
 - Name: Sejal Rajkumar Magadum
-- Internship: CodvAlpha Technologies
+- Internship: CodeAlpha Technologies
