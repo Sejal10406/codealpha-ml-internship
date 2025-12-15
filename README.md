@@ -29,4 +29,4 @@ This repository contains the tasks completed as part of my Machine Learning Inte
 
 ## 👤 Author
 - Name: Sejal Rajkumar Magadum
-- Internship: Codveda Technologies
+- Internship: CodvAlpha Technologies
